@@ -21,6 +21,7 @@ h1 {
 .container {
     display: flex;
     padding: 2%;
+    margin-bottom: 100px;
 }
 .banner {
     background-image: url(./images/top-banner.png);
@@ -33,4 +34,9 @@ h1 {
 }
 .profile-image {
     width: 80%;
+}
+.dream {
+    background-image: url(./images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
